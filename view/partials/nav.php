@@ -1,7 +1,7 @@
   <nav>
     <div class="nav-container closeHamburgermenu" id="nav">
       <ul>
-      <li><a href="home.php">Home</a></li>
+      <li><a href="index.php">Home</a></li>
         <li><a href="product.php">Product</a></li>
         <li><a href="location.php">Location</a></li>
        
